@@ -5,6 +5,11 @@ A React E-commerce app based on the Udemy Course [Complete React Developer in 20
 
 [Jayden Shaw](https://github.com/jshaw990)
 
+## Technologies Utilized
+- React
+- React Router
+- SASS
+
 --- 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
