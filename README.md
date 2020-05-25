@@ -1,3 +1,12 @@
+# CRWN Clothing
+A React E-commerce app based on the Udemy Course [Complete React Developer in 2020](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
+
+## Author 
+
+[Jayden Shaw](https://github.com/jshaw990)
+
+--- 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
