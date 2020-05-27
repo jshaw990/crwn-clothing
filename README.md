@@ -9,6 +9,7 @@ A React E-commerce app based on the Udemy Course [Complete React Developer in 20
 - React
 - React Router
 - SASS
+- Firebase
 
 --- 
 
