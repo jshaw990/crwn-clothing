@@ -8,6 +8,7 @@ A React E-commerce app based on the Udemy Course [Complete React Developer in 20
 ## Technologies Utilized
 - React
 - React Router
+- Redux
 - SASS
 - Firebase
 
