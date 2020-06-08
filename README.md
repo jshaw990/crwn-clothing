@@ -5,6 +5,10 @@ A React E-commerce app based on the Udemy Course [Complete React Developer in 20
 
 [Jayden Shaw](https://github.com/jshaw990)
 
+## Depoyment
+
+Deployed with [Heroku](https://crwn-live-jshaw990.herokuapp.com/)
+
 ## Technologies Utilized
 - React
 - React Router
@@ -12,6 +16,7 @@ A React E-commerce app based on the Udemy Course [Complete React Developer in 20
 - SASS
 - Firebase
 - Stripe 
+- Heroku
 
 --- 
 
