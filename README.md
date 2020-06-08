@@ -11,6 +11,7 @@ A React E-commerce app based on the Udemy Course [Complete React Developer in 20
 - Redux
 - SASS
 - Firebase
+- Stripe 
 
 --- 
 
