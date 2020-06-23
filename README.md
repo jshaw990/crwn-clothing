@@ -14,6 +14,7 @@ Deployed with [Heroku](https://crwn-live-jshaw990.herokuapp.com/)
 - React Router
 - Redux
 - SASS
+- Styled Components
 - Firebase
 - Stripe 
 - Heroku
